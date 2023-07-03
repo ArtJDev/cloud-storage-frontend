@@ -1,4 +1,4 @@
-# netology-diplom-frontend
+# cloud-storage-frontend
 
 ## Project setup
 ```
